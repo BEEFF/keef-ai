@@ -27,12 +27,15 @@ def scrape_cards_data():
     for card in card_names:
         get_google_images(card, 15)
 
-def image_resize():
-    basewidth = 28 # MNIST image width
-    img = Image.open('your_input_img.jpg')
+def image_resize(path):
+    basewidth = 200 # MNIST image width
+    img = Image.open(path)
     wpercent = (basewidth/float(img.size[0]))
     hsize = int((float(img.size[1])*float(wpercent)))
     img = img.resize((basewidth,hsize), Image.ANTIALIAS)
+    return img
 
 def training():
     class_labels = get_card_names()
+
+image_resize()
