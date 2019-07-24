@@ -1,0 +1,319 @@
+<!DOCTYPE HTML>
+
+<html>
+
+<head>
+
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>Public Domain Photography Free Stock Photos for any use</title><meta name="description" content="Public Domain Photography is your ultimate source to find a range of royalty free stock photos, video clips & images. Check out our amazing collection of free pics!">
+<meta name="keywords" content="public domain images , public domain images free, public domain photos free, public domain video clips, public domain pics, public domain images library, public domain photos, public domain video, free public domain videos"><meta name="robots" content="index, follow">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link href="https://publicdomainphotography.com/assets/themes/modern/css/bootstrap.min.css" rel="stylesheet" media="screen" onload="if(media!='all')media='all'">
+<link href="https://fonts.googleapis.com/css?family=Roboto+Slab" rel="stylesheet" type='text/css'> 
+<link href="https://fonts.googleapis.com/css?family=Slabo+27px" rel="stylesheet" type='text/css'> 
+
+<!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+<!--[if lt IE 9]>
+	<script src="https://publicdomainphotography.com/assets/themes/modern/js/html5shiv.js"></script>
+	<script src="https://publicdomainphotography.com/assets/themes/modern/js/respond.min.js"></script>
+<![endif]-->
+<script   src="https://publicdomainphotography.com/assets/javascript/jquery/jquery.min.js"></script>
+
+<script async src="https://publicdomainphotography.com/assets/javascript/shared.min.js"></script>
+<script async src="https://publicdomainphotography.com/assets/themes/modern/js/theme.js"></script>
+<script async src="https://publicdomainphotography.com/assets/javascript/public.min.js"></script>  
+<script async src="https://publicdomainphotography.com/assets/jwplayer/jwplayer.min.js"></script>
+<script async  src="https://publicdomainphotography.com/assets/themes/modern/js/bootstrap.min.js"></script>
+<script async  src="//platform-api.sharethis.com/js/sharethis.js#property=58ca8e615605120014922dec&product=inline-share-buttons"></script>
+
+
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-91570029-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-91570029-1');
+</script> 
+
+<script>  
+	var baseURL 	= 'https://publicdomainphotography.com';
+	var theme		= 'modern';
+	var colorScheme	= 'style.main';
+	var imgPath		= 'https://publicdomainphotography.com/assets/themes/modern/images';
+	var pageID		= 'content';
+	var pageMode	= '';
+	var miniCart	= '1';	
+	var browser 	= {  'mobile':'0',  'iOS':'0'  }
+	
+	
+	
+	/*
+	* Currency Variables
+	*/
+	var numset = new Object();
+	numset.cur_hide_denotation = 1;
+	numset.cur_currency_id = '1';
+	numset.cur_name = "United States Dollar";
+	numset.cur_code = "USD";
+	numset.cur_denotation = "$";
+	numset.cur_denotation_reset = '$';
+	numset.cur_decimal_separator = ".";
+	numset.cur_decimal_places = "2";
+	numset.cur_thousands_separator = ",";		
+	numset.cur_pos_num_format = "1";
+	numset.cur_neg_num_format =" 7";
+	numset.exchange_rate = "1";
+	/*
+	* Number Variables
+	*/	
+	numset.decimal_separator = ".";
+	numset.decimal_places = "2";
+	numset.thousands_separator = ",";		
+	numset.neg_num_format = "1";
+	numset.strip_ezeros = 0;
+	/*
+	* Tax values
+	*/
+	numset.tax_a = "0.000";
+	numset.tax_b = "0.000";
+	numset.tax_c = "0.000";
+-->
+</script>
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [{
+    "@type": "ListItem",
+    "position": 1,
+    "item": {
+      "@id": "http://blog.publicdomainphotography.com/",
+      "name": "Blog"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 2,
+    "item": {
+      "@id": "https://publicdomainphotography.com/galleries/",
+      "name": "Galleries"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 3,
+    "item": {
+      "@id": "https://publicdomainphotography.com/league/alltime/",
+      "name": "League"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 4,
+    "item": {
+      "@id": "https://publicdomainphotography.com/contributors/",
+      "name": "Contributors"
+    }
+  },
+  {
+    "@type": "ListItem",
+    "position": 5,
+    "item": {
+      "@id": "https://publicdomainphotography.com/login/members/",
+      "name": "Login"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 6,
+    "item": {
+      "@id": "https://publicdomainphotography.com/contact/",
+      "name": "Contact Us"
+    }
+  }]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "Organization",
+  "url": "https://publicdomainphotography.com/",
+  "logo": "https://publicdomainphotography.com/assets/logos/generic.logo.png"
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org/",
+  "@type": "Book",
+  "name": "Public Domain Photography",
+  "description": "Public Domain Photography is your ultimate source to find a wide range of royalty free stock photos & pictures. Check out our Architecture, Animals, Birds, Business, Health, Food, Holiday, Landscape, Nature, Communication and technology copyright free images!",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "5",
+    "bestRating": "5",
+    "ratingCount": "1"
+  }
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "WebSite",
+  "url": "https://publicdomainphotography.com/",
+  "potentialAction": {
+    "@type": "SearchAction",
+    "target": "https://publicdomainphotography.com/search?q={search_term_string}",
+    "query-input": "required name=search_term_string"
+  }
+}
+</script>
+
+	<link rel="stylesheet" type="text/css" href="https://publicdomainphotography.com/assets/themes/modern/style.main.css">
+<!--<link rel="stylesheet" type="text/css" href="https://publicdomainphotography.com/assets/css/jqueryUI/smoothness/jquery-ui-1.8.12.custom.css">-->
+<link rel="icon" type="image/png" href="https://publicdomainphotography.com/assets/themes/modern/images/favicon.ico"  />
+<link rel="icon" type="image/png" href="https://publicdomainphotography.com/assets/themes/modern/images/favicon-32x32.png" sizes="32x32" />
+<link rel="icon" type="image/png" href="https://publicdomainphotography.com/assets/themes/modern/images/favicon-16x16.png" sizes="16x16" />
+<link rel="apple-touch-icon" href="https://publicdomainphotography.com/assets/themes/modern/images/apple-touch-icon.png" />
+<link rel="apple-touch-icon" sizes="57x57" href="https://publicdomainphotography.com/assets/themes/modern/images/apple-touch-icon-57x57.png" />
+<link rel="apple-touch-icon" sizes="72x72" href="https://publicdomainphotography.com/assets/themes/modern/images/apple-touch-icon-72x72.png" />
+<link rel="apple-touch-icon" sizes="76x76" href="https://publicdomainphotography.com/assets/themes/modern/images/apple-touch-icon-76x76.png" />
+<link rel="apple-touch-icon" sizes="114x114" href="https://publicdomainphotography.com/assets/themes/modern/images/apple-touch-icon-114x114.png" />
+<link rel="apple-touch-icon" sizes="120x120" href="https://publicdomainphotography.com/assets/themes/modern/images/apple-touch-icon-120x120.png" />
+<link rel="apple-touch-icon" sizes="144x144" href="https://publicdomainphotography.com/assets/themes/modern/images/apple-touch-icon-144x144.png" />
+<link rel="apple-touch-icon" sizes="152x152" href="https://publicdomainphotography.com/assets/themes/modern/images/apple-touch-icon-152x152.png" />
+<link rel="apple-touch-icon" sizes="180x180" href="https://publicdomainphotography.com/assets/themes/modern/images/apple-touch-icon-180x180.png" />
+    
+<style>
+	footer{margin-top:0;}
+	
+</style>
+
+</head>
+
+<body>
+
+	<div id="overlay"></div>
+<div id="workbox"></div>
+<div id="hoverWindow"><div id="hoverWindowInner"></div></div>
+
+	<div id="container">
+
+			<nav class="navbar navbar-inverse navbar-static-top">
+		<div class="container"><!-- Container is centered in page -->
+			<!-- Brand and toggle get grouped for better mobile display -->
+			<div class="navbar-header">
+				<button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+					<span class="sr-only">Toggle navigation</span>
+					<span class="icon-bar"></span>
+					<span class="icon-bar"></span>
+					<span class="icon-bar"></span>
+				</button>
+				<a href="https://publicdomainphotography.com/index.php" class="navbar-brand">
+                <img src="https://publicdomainphotography.com/assets/logos/generic.logo.png" id="mainLogo" class="img-responsive" 
+                style="margin-top: -6px;" alt="Public Domain Photography Home of free Stock Photos"></a>
+			</div>
+			<div class="collapse navbar-collapse">
+						<div class="col-md-4">
+			<form role="search" action="https://publicdomainphotography.com/search.php" method="get" id="searchFormTest1" class="navbar-form">			
+			<input type="hidden" name="clearSearch" value="true">
+				<div class="input-group">					
+					<input type="text" class="form-control" placeholder="Search Free Stock Photos" name="searchPhrase" id="searchPhrase">
+					<div class="input-group-btn">
+						<button class="btn btn-info">
+							<span class="glyphicon glyphicon-search"></span>
+						</button>
+					</div>					
+				</div>
+				<div style="margin-top: 6px;">
+										<!--<a href="https://publicdomainphotography.com/search.php">Advanced Search</a>-->
+					
+									</div>
+			</form>		
+		</div>
+					
+			<ul class="nav navbar-nav topNav">
+										<li id="blog"><a href="http://blog.publicdomainphotography.com">Blog</a></li>					
+<li id="navGalleries"><a href="https://publicdomainphotography.com/galleries/">Galleries</a></li>
+					<li id="league"><a href="https://publicdomainphotography.com/league/alltime/">League</a></li>
+															<li id="navContributors"><a href="https://publicdomainphotography.com/contributors-royalty-free-images/">Contributors</a></li>										
+																									<li><a href="https://publicdomainphotography.com/login/members/">Login</a></li>
+							<!--<li><a href="https://publicdomainphotography.com/create.account.php?jumpTo=members">Create An Account</a></li>-->
+															</ul>
+			</div>
+		</div>
+	</nav>
+</div>
+       
+ 
+		<div class="container-fluid" style="">
+
+			<div class="row" style="background-image:url('https://publicdomainphotography.com/assets/themes/modern/images/404banner1.jpg');background-position:center;background-size:cover;">
+					<h1 class="text-center" style="padding: 20px 0px 5px 0px;
+    color: #fff;font-size: 40px;font-weight: normal;">Oops...</h1>
+					<h3 class="text-center"	style="color:#fff;font-size:20px;font-weight:normal;">The page you are trying to reach does not exist in this dimension YET!</h3>
+				
+				</div>	
+					<div class="row">
+						<div class="gohome text-center" style="position:relative;">
+						<img src="https://publicdomainphotography.com/assets/themes/modern/images/404_banner.jpg"
+							class="img-responsive"/>
+						   <div style="position:absolute;bottom:50px;width:100%;" class="text-center">
+						   <a href="https://publicdomainphotography.com" class="btn btn-default" style="color:#2a6496!important;">Go Home</a>
+						   </div>
+							
+						   </div>
+					</div>
+					</div>
+
+				</div>
+
+			
+
+		</div>
+
+		<footer>
+			<div></div>
+		<div class="container">
+	    <script>
+	        document.body.style.display="block";
+	    </script>
+		<div class="row">
+        	<div class="text-center">
+            	<ul class="footer_menu" style="display:inline-block;margin-bottom:10px;">
+											
+				<li><a href="https://www.facebook.com/Public-Domain-Photography-266359083778236/" target="_blank"><img src="https://publicdomainphotography.com/assets/themes/modern/images/facebook.icon.png" width="20" title="Facebook" alt="PDP Facebook Free Stock Photos 
+"></a></li>				<li>
+                <a href="https://twitter.com/PublicDomainPho" target="_blank"><img src="https://publicdomainphotography.com/assets/themes/modern/images/twitter.icon.png" width="20" title="Twitter" alt="PDP Twitter Free Stock Photos"></a></li>                <li>
+                <a href="https://plus.google.com/+PublicDomainPhotography" target="_blank"><img src="https://publicdomainphotography.com/assets/themes/modern/images/google-icon.png" width="20" title="GooglePlus" alt="PDP Gmail Free Stock Images "></a></li>                <li>
+      <a href="https://www.flickr.com/photos/publicdomainphotography/" target="_blank"><img src="https://publicdomainphotography.com/assets/themes/modern/images/flicker.icon.png" width="20" title="Flicker" alt="PDP Flickr Free Images for any use"></a></li>                <li>
+                <a href="https://www.instagram.com/publicdomainphotography/" target="_blank"><img src="https://publicdomainphotography.com/assets/themes/modern/images/insta.icon.png" width="20" title="Instagram" alt="PDP Instagram Free Stock Pics "></a></li>                							
+				<li><a href="https://www.youtube.com/channel/UC7c_ZiPd6G2ASfYunZqXphA" target="_blank"><img src="https://publicdomainphotography.com/assets/themes/modern/images/youtube-icon.png" width="20" title="YouTube" alt="PDP YouTube Free Stock Pics "></a></li>				</ul>
+               </div>
+             </div>
+            <div class="clearfix"></div>
+          <div class="row" style="padding-bottom:5px;">
+             		<div class="col-md-6 col-sm-12 col-xs-12" style="text-align:center;margin-bottom: 10px;">
+				Copyright &copy; 2019 <a href="https://publicdomainphotography.com" title="Public Domain Photography Home of free Stock Photos">Public Domain Photography</a>&nbsp;All Rights Reserved.
+			</div>
+			<!--div class="col-md-3">
+								<ul>
+					<li><strong>RSS</strong></li>
+																			</ul>
+							</div -->
+          <div class="col-md-6 col-sm-12 col-xs-12 text-center">
+				<ul class="footer_menu" style="margin-bottom: 10px;display: inline-block;">
+					<li><a href="https://publicdomainphotography.com/contact-public-domain-photography-free-image-network/">Contact Us</a></li>					<li><a href="https://publicdomainphotography.com/about/">About Us</a></li>							
+					<li><a href="https://publicdomainphotography.com/faq/">FAQ</a></li>
+					<li><a href="https://publicdomainphotography.com/terms-of-use/">Terms Of Use</a></li>					<li><a href="https://publicdomainphotography.com/privacy-policy/">Privacy Policy</a></li>									</ul>
+		</div>
+		</div>
+	</div>
+	<div id="statsCode"></div>
+</footer>
+
+    
+
+</body>
+
+</html>
